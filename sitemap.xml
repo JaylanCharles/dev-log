@@ -125,7 +125,5 @@
     <loc>http://localhost:1313/dev-log/links/</loc>
   </url><url>
     <loc>http://localhost:1313/dev-log/search/</loc>
-  </url><url>
-    <loc>http://localhost:1313/dev-log/tags/%E9%9A%90%E7%A7%81/</loc>
   </url>
 </urlset>
